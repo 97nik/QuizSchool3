@@ -1,1 +1,1 @@
-# QuizSchool3
+# QuizSchool
